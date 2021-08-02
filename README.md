@@ -67,17 +67,23 @@ Python Packages: jupyterlab, torch, numpy, pandas, matplotlib, sklearn
 
 ## 📋 Examples
 
-**1.** Visulization for the original dataset. Orange lines mean anomaly part. 
+**1.** Visulization for the original dataset (here shows part of, P1 & P2). Orange lines mean anomaly part. 
 
-![Visulization for the original dataset](fig/swat-2015.png)
+![Visulization for the original dataset](fig/swat-2015-original.png)
 
-**2.** Spectral on one feature as an example. 
 
-![SR Sample](fig/swat-2015-sr-sample.png)
 
-**3.** Spectral on all dataset features.
+**2.** Visulization for the original datset (P4 & P5). Orange lines mean attacks. 
 
-![SR](fig/swat-2015-sr.png)
+![Original Dataset](fig/swat-2015-original2.png)
+
+**2.** Spectral on one feature as an example. The upper one is the feature data before processing, the down one is value after SR processing. It's much easier to show the attack. 
+
+![SR Sample](fig/swat-2015-sr-sample2.png)
+
+**3.** Spectral on all dataset features. To check the performance, we can compare this fiture with the original data. 
+
+![SR](fig/swat-2015-sr3.png)
 
 ## 📚 References
 
