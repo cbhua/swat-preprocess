@@ -6,4 +6,4 @@ Based on iTrust's license:
 
 We can not directly share dataset here. So please refer the offical site of iTrust SWaT dataset to apply this dataset (it will be pretty easy to apply but need one or two days to wait for their reply).
 
-iTrust Dataset: [https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/).
+iTrust Dataset Officlal Website: [https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/).

@@ -53,17 +53,19 @@ Python Packages: jupyterlab, torch, numpy, pandas, matplotlib, sklearn
 - `script/`: preprocess in script format
 - `src/`: source code of tools 
 
-## 📖 How to use
+## 📖 How to start
+
+**Step 0.** Before everything, please follow the `data/README.md` to get the dataset file. This may take one or two days. 
 
 **Step 1.** [Clone]() or [Download]() this repository.
 
-**Step 2.** Run `notebook/swat-2015-info.ipynb` to get a basic idea about the dataset. More details are included in the notebook. 
+**Step 2.** Check `notebook/swat-2015-info.ipynb` to get a basic idea about the dataset. More details are included in the notebook. 
 
-**Step 3.** Run `notebook/swat-2015-process.ipynb` to preprocess the dataset. More details are included in the notebook. 
+**Step 3.** Check `notebook/swat-2015-process.ipynb` to preprocess the dataset, including normalization, format transformation, spectral residual, simple anomaly detection, etc. More details are included in the notebook. 
 
-**Step 4.** Run `notebook/swat-2015-dataset.ipynb` to check generated torch dataset. More details are included in the notebook. 
+**Step 4.** Check `notebook/swat-2015-dataset.ipynb` to check generated torch dataset. More details are included in the notebook. You can also use the `src/swatset.py` to do that. 
 
-**Step 5.** Use scrpts in your project to get dataset preprocessed. 
+**Step 5.** Freely use scrpts in your projects! 
 
 ## 📋 Examples
 
